@@ -1,0 +1,753 @@
+,TAXID,ORG_CODE,STRAIN_NAME
+0,511145.0,eco,Escherichia coli K12 MG1655
+1,511145.0,eco,Escherichia coli K12 MG1655
+2,511145.0,eco,Escherichia coli K12 MG1655
+3,511145.0,eco,Escherichia coli K12 MG1655
+4,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+5,511145.0,eco,Escherichia coli K12 MG1655
+6,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+7,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+8,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+9,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+10,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+11,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+12,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+13,511145.0,eco,Escherichia coli K12 MG1655
+14,511145.0,eco,Escherichia coli K12 MG1655
+15,511145.0,eco,Escherichia coli K12 MG1655
+16,511145.0,eco,Escherichia coli K12 MG1655
+17,220341.0,sty,Salmonella enterica subsp. enterica serovar Typhi str. CT18
+18,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+19,511145.0,eco,Escherichia coli K12 MG1655
+20,511145.0,eco,Escherichia coli K12 MG1655
+21,511145.0,eco,Escherichia coli K12 MG1655
+22,511145.0,eco,Escherichia coli K12 MG1655
+23,511145.0,eco,Escherichia coli K12 MG1655
+24,511145.0,eco,Escherichia coli K12 MG1655
+25,511145.0,eco,Escherichia coli K12 MG1655
+26,511145.0,eco,Escherichia coli K12 MG1655
+27,511145.0,eco,Escherichia coli K12 MG1655
+28,511145.0,eco,Escherichia coli K12 MG1655
+29,511145.0,eco,Escherichia coli K12 MG1655
+30,511145.0,eco,Escherichia coli K12 MG1655
+31,511145.0,eco,Escherichia coli K12 MG1655
+32,511145.0,eco,Escherichia coli K12 MG1655
+33,511145.0,eco,Escherichia coli K12 MG1655
+34,511145.0,eco,Escherichia coli K12 MG1655
+35,511145.0,eco,Escherichia coli K12 MG1655
+36,511145.0,eco,Escherichia coli K12 MG1655
+37,511145.0,eco,Escherichia coli K12 MG1655
+38,511145.0,eco,Escherichia coli K12 MG1655
+39,511145.0,eco,Escherichia coli K12 MG1655
+40,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+41,511145.0,eco,Escherichia coli K12 MG1655
+42,511145.0,eco,Escherichia coli K12 MG1655
+43,511145.0,eco,Escherichia coli K12 MG1655
+44,511145.0,eco,Escherichia coli K12 MG1655
+45,511145.0,eco,Escherichia coli K12 MG1655
+46,511145.0,eco,Escherichia coli K12 MG1655
+47,511145.0,eco,Escherichia coli K12 MG1655
+48,511145.0,eco,Escherichia coli K12 MG1655
+49,511145.0,eco,Escherichia coli K12 MG1655
+50,511145.0,eco,Escherichia coli K12 MG1655
+51,511145.0,eco,Escherichia coli K12 MG1655
+52,511145.0,eco,Escherichia coli K12 MG1655
+53,208964.0,pae,Pseudomonas aeruginosa PAO1
+54,208964.0,pae,Pseudomonas aeruginosa PAO1
+55,322710.0,avn,Azotobacter vinelandii DJ
+56,208964.0,pae,Pseudomonas aeruginosa PAO1
+57,208964.0,pae,Pseudomonas aeruginosa PAO1
+58,322710.0,avn,Azotobacter vinelandii DJ
+59,208964.0,pae,Pseudomonas aeruginosa PAO1
+60,208964.0,pae,Pseudomonas aeruginosa PAO1
+61,322710.0,avn,Azotobacter vinelandii DJ
+62,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+63,511145.0,eco,Escherichia coli K12 MG1655
+64,511145.0,eco,Escherichia coli K12 MG1655
+65,511145.0,eco,Escherichia coli K12 MG1655
+66,511145.0,eco,Escherichia coli K12 MG1655
+67,511145.0,eco,Escherichia coli K12 MG1655
+68,511145.0,eco,Escherichia coli K12 MG1655
+69,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+70,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+71,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+72,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+73,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+74,511145.0,eco,Escherichia coli K12 MG1655
+75,511145.0,eco,Escherichia coli K12 MG1655
+76,511145.0,eco,Escherichia coli K12 MG1655
+77,511145.0,eco,Escherichia coli K12 MG1655
+78,511145.0,eco,Escherichia coli K12 MG1655
+79,511145.0,eco,Escherichia coli K12 MG1655
+80,511145.0,eco,Escherichia coli K12 MG1655
+81,511145.0,eco,Escherichia coli K12 MG1655
+82,426430.0,sae,Staphylococcus aureus subsp. aureus str. NEWMAN
+83,426430.0,sae,Staphylococcus aureus subsp. aureus str. NEWMAN
+84,196620.0,sam,Staphylococcus aureus subsp. aureus MW2
+85,122586.0,nme,Neisseria meningitidis MC58
+86,122586.0,nme,Neisseria meningitidis MC58
+87,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+88,511145.0,eco,Escherichia coli K12 MG1655
+89,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+90,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+91,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+92,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+93,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+94,511145.0,eco,Escherichia coli K12 MG1655
+95,511145.0,eco,Escherichia coli K12 MG1655
+96,511145.0,eco,Escherichia coli K12 MG1655
+97,511145.0,eco,Escherichia coli K12 MG1655
+98,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+99,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+100,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+101,511145.0,eco,Escherichia coli K12 MG1655
+102,511145.0,eco,Escherichia coli K12 MG1655
+103,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+104,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+105,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+106,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+107,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+108,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+109,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+110,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+111,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+112,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+113,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+114,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+115,511145.0,eco,Escherichia coli K12 MG1655
+116,511145.0,eco,Escherichia coli K12 MG1655
+117,511145.0,eco,Escherichia coli K12 MG1655
+118,511145.0,eco,Escherichia coli K12 MG1655
+119,511145.0,eco,Escherichia coli K12 MG1655
+120,511145.0,eco,Escherichia coli K12 MG1655
+121,511145.0,eco,Escherichia coli K12 MG1655
+122,511145.0,eco,Escherichia coli K12 MG1655
+123,511145.0,eco,Escherichia coli K12 MG1655
+124,511145.0,eco,Escherichia coli K12 MG1655
+125,511145.0,eco,Escherichia coli K12 MG1655
+126,511145.0,eco,Escherichia coli K12 MG1655
+127,511145.0,eco,Escherichia coli K12 MG1655
+128,511145.0,eco,Escherichia coli K12 MG1655
+129,511145.0,eco,Escherichia coli K12 MG1655
+130,511145.0,eco,Escherichia coli K12 MG1655
+131,511145.0,eco,Escherichia coli K12 MG1655
+132,511145.0,eco,Escherichia coli K12 MG1655
+133,511145.0,eco,Escherichia coli K12 MG1655
+134,511145.0,eco,Escherichia coli K12 MG1655
+135,511145.0,eco,Escherichia coli K12 MG1655
+136,511145.0,eco,Escherichia coli K12 MG1655
+137,511145.0,eco,Escherichia coli K12 MG1655
+138,511145.0,eco,Escherichia coli K12 MG1655
+139,511145.0,eco,Escherichia coli K12 MG1655
+140,511145.0,eco,Escherichia coli K12 MG1655
+141,511145.0,eco,Escherichia coli K12 MG1655
+142,511145.0,eco,Escherichia coli K12 MG1655
+143,511145.0,eco,Escherichia coli K12 MG1655
+144,511145.0,eco,Escherichia coli K12 MG1655
+145,511145.0,eco,Escherichia coli K12 MG1655
+146,511145.0,eco,Escherichia coli K12 MG1655
+147,511145.0,eco,Escherichia coli K12 MG1655
+148,511145.0,eco,Escherichia coli K12 MG1655
+149,511145.0,eco,Escherichia coli K12 MG1655
+150,511145.0,eco,Escherichia coli K12 MG1655
+151,511145.0,eco,Escherichia coli K12 MG1655
+152,511145.0,eco,Escherichia coli K12 MG1655
+153,511145.0,eco,Escherichia coli K12 MG1655
+154,511145.0,eco,Escherichia coli K12 MG1655
+155,511145.0,eco,Escherichia coli K12 MG1655
+156,511145.0,eco,Escherichia coli K12 MG1655
+157,511145.0,eco,Escherichia coli K12 MG1655
+158,511145.0,eco,Escherichia coli K12 MG1655
+159,511145.0,eco,Escherichia coli K12 MG1655
+160,511145.0,eco,Escherichia coli K12 MG1655
+161,511145.0,eco,Escherichia coli K12 MG1655
+162,511145.0,eco,Escherichia coli K12 MG1655
+163,511145.0,eco,Escherichia coli K12 MG1655
+164,511145.0,eco,Escherichia coli K12 MG1655
+165,511145.0,eco,Escherichia coli K12 MG1655
+166,511145.0,eco,Escherichia coli K12 MG1655
+167,511145.0,eco,Escherichia coli K12 MG1655
+168,511145.0,eco,Escherichia coli K12 MG1655
+169,511145.0,eco,Escherichia coli K12 MG1655
+170,511145.0,eco,Escherichia coli K12 MG1655
+171,511145.0,eco,Escherichia coli K12 MG1655
+172,511145.0,eco,Escherichia coli K12 MG1655
+173,511145.0,eco,Escherichia coli K12 MG1655
+174,511145.0,eco,Escherichia coli K12 MG1655
+175,511145.0,eco,Escherichia coli K12 MG1655
+176,511145.0,eco,Escherichia coli K12 MG1655
+177,511145.0,eco,Escherichia coli K12 MG1655
+178,511145.0,eco,Escherichia coli K12 MG1655
+179,511145.0,eco,Escherichia coli K12 MG1655
+180,511145.0,eco,Escherichia coli K12 MG1655
+181,511145.0,eco,Escherichia coli K12 MG1655
+182,511145.0,eco,Escherichia coli K12 MG1655
+183,511145.0,eco,Escherichia coli K12 MG1655
+184,511145.0,eco,Escherichia coli K12 MG1655
+185,511145.0,eco,Escherichia coli K12 MG1655
+186,511145.0,eco,Escherichia coli K12 MG1655
+187,511145.0,eco,Escherichia coli K12 MG1655
+188,511145.0,eco,Escherichia coli K12 MG1655
+189,511145.0,eco,Escherichia coli K12 MG1655
+190,511145.0,eco,Escherichia coli K12 MG1655
+191,511145.0,eco,Escherichia coli K12 MG1655
+192,511145.0,eco,Escherichia coli K12 MG1655
+193,511145.0,eco,Escherichia coli K12 MG1655
+194,511145.0,eco,Escherichia coli K12 MG1655
+195,511145.0,eco,Escherichia coli K12 MG1655
+196,511145.0,eco,Escherichia coli K12 MG1655
+197,511145.0,eco,Escherichia coli K12 MG1655
+198,511145.0,eco,Escherichia coli K12 MG1655
+199,511145.0,eco,Escherichia coli K12 MG1655
+200,511145.0,eco,Escherichia coli K12 MG1655
+201,511145.0,eco,Escherichia coli K12 MG1655
+202,511145.0,eco,Escherichia coli K12 MG1655
+203,511145.0,eco,Escherichia coli K12 MG1655
+204,511145.0,eco,Escherichia coli K12 MG1655
+205,511145.0,eco,Escherichia coli K12 MG1655
+206,511145.0,eco,Escherichia coli K12 MG1655
+207,511145.0,eco,Escherichia coli K12 MG1655
+208,511145.0,eco,Escherichia coli K12 MG1655
+209,511145.0,eco,Escherichia coli K12 MG1655
+210,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+211,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+212,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+213,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+214,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+215,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+216,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+217,122586.0,nme,Neisseria meningitidis MC58
+218,122586.0,nme,Neisseria meningitidis MC58
+219,122586.0,nme,Neisseria meningitidis MC58
+220,208964.0,pae,Pseudomonas aeruginosa PAO1
+221,208964.0,pae,Pseudomonas aeruginosa PAO1
+222,208964.0,pae,Pseudomonas aeruginosa PAO1
+223,208964.0,pae,Pseudomonas aeruginosa PAO1
+224,208964.0,pae,Pseudomonas aeruginosa PAO1
+225,208964.0,pae,Pseudomonas aeruginosa PAO1
+226,208964.0,pae,Pseudomonas aeruginosa PAO1
+227,208964.0,pae,Pseudomonas aeruginosa PAO1
+228,208964.0,pae,Pseudomonas aeruginosa PAO1
+229,208964.0,pae,Pseudomonas aeruginosa PAO1
+230,208964.0,pae,Pseudomonas aeruginosa PAO1
+231,208964.0,pae,Pseudomonas aeruginosa PAO1
+232,208964.0,pae,Pseudomonas aeruginosa PAO1
+233,208964.0,pae,Pseudomonas aeruginosa PAO1
+234,208964.0,pae,Pseudomonas aeruginosa PAO1
+235,208964.0,pae,Pseudomonas aeruginosa PAO1
+236,208964.0,pae,Pseudomonas aeruginosa PAO1
+237,208964.0,pae,Pseudomonas aeruginosa PAO1
+238,208964.0,pae,Pseudomonas aeruginosa PAO1
+239,208964.0,pae,Pseudomonas aeruginosa PAO1
+240,208964.0,pae,Pseudomonas aeruginosa PAO1
+241,208964.0,pae,Pseudomonas aeruginosa PAO1
+242,322710.0,avn,Azotobacter vinelandii DJ
+243,322710.0,avn,Azotobacter vinelandii DJ
+244,322710.0,avn,Azotobacter vinelandii DJ
+245,322710.0,avn,Azotobacter vinelandii DJ
+246,322710.0,avn,Azotobacter vinelandii DJ
+247,322710.0,avn,Azotobacter vinelandii DJ
+248,322710.0,avn,Azotobacter vinelandii DJ
+249,322710.0,avn,Azotobacter vinelandii DJ
+250,322710.0,avn,Azotobacter vinelandii DJ
+251,322710.0,avn,Azotobacter vinelandii DJ
+252,511145.0,eco,Escherichia coli K12 MG1655
+253,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+254,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+255,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+256,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+257,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+258,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+259,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+260,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+261,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+262,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+263,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+264,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+265,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+266,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+267,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+268,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+269,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+270,511145.0,eco,Escherichia coli K12 MG1655
+271,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+272,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+273,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+274,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+275,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+276,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+277,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+278,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+279,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+280,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+281,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+282,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+283,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+284,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+285,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+286,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+287,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+288,511145.0,eco,Escherichia coli K12 MG1655
+289,511145.0,eco,Escherichia coli K12 MG1655
+290,511145.0,eco,Escherichia coli K12 MG1655
+291,511145.0,eco,Escherichia coli K12 MG1655
+292,511145.0,eco,Escherichia coli K12 MG1655
+293,511145.0,eco,Escherichia coli K12 MG1655
+294,511145.0,eco,Escherichia coli K12 MG1655
+295,511145.0,eco,Escherichia coli K12 MG1655
+296,511145.0,eco,Escherichia coli K12 MG1655
+297,511145.0,eco,Escherichia coli K12 MG1655
+298,511145.0,eco,Escherichia coli K12 MG1655
+299,511145.0,eco,Escherichia coli K12 MG1655
+300,511145.0,eco,Escherichia coli K12 MG1655
+301,511145.0,eco,Escherichia coli K12 MG1655
+302,511145.0,eco,Escherichia coli K12 MG1655
+303,511145.0,eco,Escherichia coli K12 MG1655
+304,511145.0,eco,Escherichia coli K12 MG1655
+305,511145.0,eco,Escherichia coli K12 MG1655
+306,511145.0,eco,Escherichia coli K12 MG1655
+307,511145.0,eco,Escherichia coli K12 MG1655
+308,511145.0,eco,Escherichia coli K12 MG1655
+309,511145.0,eco,Escherichia coli K12 MG1655
+310,511145.0,eco,Escherichia coli K12 MG1655
+311,511145.0,eco,Escherichia coli K12 MG1655
+312,511145.0,eco,Escherichia coli K12 MG1655
+313,511145.0,eco,Escherichia coli K12 MG1655
+314,511145.0,eco,Escherichia coli K12 MG1655
+315,511145.0,eco,Escherichia coli K12 MG1655
+316,511145.0,eco,Escherichia coli K12 MG1655
+317,511145.0,eco,Escherichia coli K12 MG1655
+318,511145.0,eco,Escherichia coli K12 MG1655
+319,511145.0,eco,Escherichia coli K12 MG1655
+320,511145.0,eco,Escherichia coli K12 MG1655
+321,511145.0,eco,Escherichia coli K12 MG1655
+322,511145.0,eco,Escherichia coli K12 MG1655
+323,511145.0,eco,Escherichia coli K12 MG1655
+324,511145.0,eco,Escherichia coli K12 MG1655
+325,511145.0,eco,Escherichia coli K12 MG1655
+326,511145.0,eco,Escherichia coli K12 MG1655
+327,511145.0,eco,Escherichia coli K12 MG1655
+328,511145.0,eco,Escherichia coli K12 MG1655
+329,511145.0,eco,Escherichia coli K12 MG1655
+330,511145.0,eco,Escherichia coli K12 MG1655
+331,511145.0,eco,Escherichia coli K12 MG1655
+332,511145.0,eco,Escherichia coli K12 MG1655
+333,511145.0,eco,Escherichia coli K12 MG1655
+334,511145.0,eco,Escherichia coli K12 MG1655
+335,511145.0,eco,Escherichia coli K12 MG1655
+336,511145.0,eco,Escherichia coli K12 MG1655
+337,511145.0,eco,Escherichia coli K12 MG1655
+338,511145.0,eco,Escherichia coli K12 MG1655
+339,511145.0,eco,Escherichia coli K12 MG1655
+340,511145.0,eco,Escherichia coli K12 MG1655
+341,511145.0,eco,Escherichia coli K12 MG1655
+342,511145.0,eco,Escherichia coli K12 MG1655
+343,511145.0,eco,Escherichia coli K12 MG1655
+344,511145.0,eco,Escherichia coli K12 MG1655
+345,511145.0,eco,Escherichia coli K12 MG1655
+346,511145.0,eco,Escherichia coli K12 MG1655
+347,511145.0,eco,Escherichia coli K12 MG1655
+348,511145.0,eco,Escherichia coli K12 MG1655
+349,511145.0,eco,Escherichia coli K12 MG1655
+350,511145.0,eco,Escherichia coli K12 MG1655
+351,511145.0,eco,Escherichia coli K12 MG1655
+352,511145.0,eco,Escherichia coli K12 MG1655
+353,511145.0,eco,Escherichia coli K12 MG1655
+354,511145.0,eco,Escherichia coli K12 MG1655
+355,511145.0,eco,Escherichia coli K12 MG1655
+356,511145.0,eco,Escherichia coli K12 MG1655
+357,471472.0,ctb,Chlamydia trachomatis 434/Bu
+358,169963.0,lmo,Listeria monocytogenes EGD-e
+359,169963.0,lmo,Listeria monocytogenes EGD-e
+360,169963.0,lmo,Listeria monocytogenes EGD-e
+361,169963.0,lmo,Listeria monocytogenes EGD-e
+362,169963.0,lmo,Listeria monocytogenes EGD-e
+363,511145.0,eco,Escherichia coli K12 MG1655
+364,511145.0,eco,Escherichia coli K12 MG1655
+365,511145.0,eco,Escherichia coli K12 MG1655
+366,511145.0,eco,Escherichia coli K12 MG1655
+367,511145.0,eco,Escherichia coli K12 MG1655
+368,511145.0,eco,Escherichia coli K12 MG1655
+369,511145.0,eco,Escherichia coli K12 MG1655
+370,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+371,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+372,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+373,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+374,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+375,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+376,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+377,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+378,59919.0,pmm,Prochlorococcus marinus subsp. pastoris str. CCMP1986
+379,511145.0,eco,Escherichia coli K12 MG1655
+380,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+381,565050.0,ccs,Caulobacter crescentus NA1000
+382,195102.0,cpe,Clostridium perfringens str. 13
+383,511145.0,eco,Escherichia coli K12 MG1655
+384,511145.0,eco,Escherichia coli K12 MG1655
+385,511145.0,eco,Escherichia coli K12 MG1655
+386,1286640.0,sm2,Sinorhizobium meliloti 2011
+387,511145.0,eco,Escherichia coli K12 MG1655
+388,511145.0,eco,Escherichia coli K12 MG1655
+389,511145.0,eco,Escherichia coli K12 MG1655
+390,511145.0,eco,Escherichia coli K12 MG1655
+391,511145.0,eco,Escherichia coli K12 MG1655
+392,511145.0,eco,Escherichia coli K12 MG1655
+393,511145.0,eco,Escherichia coli K12 MG1655
+394,511145.0,eco,Escherichia coli K12 MG1655
+395,511145.0,eco,Escherichia coli K12 MG1655
+396,511145.0,eco,Escherichia coli K12 MG1655
+397,511145.0,eco,Escherichia coli K12 MG1655
+398,511145.0,eco,Escherichia coli K12 MG1655
+399,511145.0,eco,Escherichia coli K12 MG1655
+400,511145.0,eco,Escherichia coli K12 MG1655
+401,511145.0,eco,Escherichia coli K12 MG1655
+402,511145.0,eco,Escherichia coli K12 MG1655
+403,511145.0,eco,Escherichia coli K12 MG1655
+404,511145.0,eco,Escherichia coli K12 MG1655
+405,158879.0,sau,Staphylococcus aureus subsp.aureus N315
+406,158879.0,sau,Staphylococcus aureus subsp.aureus N315
+407,158879.0,sau,Staphylococcus aureus subsp.aureus N315
+408,158879.0,sau,Staphylococcus aureus subsp.aureus N315
+409,511145.0,eco,Escherichia coli K12 MG1655
+410,160490.0,spy,Streptococcus pyogenes M1 GAS
+411,511145.0,eco,Escherichia coli K12 MG1655
+412,511145.0,eco,Escherichia coli K12 MG1655
+413,511145.0,eco,Escherichia coli K12 MG1655
+414,511145.0,eco,Escherichia coli K12 MG1655
+415,511145.0,eco,Escherichia coli K12 MG1655
+416,511145.0,eco,Escherichia coli K12 MG1655
+417,511145.0,eco,Escherichia coli K12 MG1655
+418,511145.0,eco,Escherichia coli K12 MG1655
+419,511145.0,eco,Escherichia coli K12 MG1655
+420,511145.0,eco,Escherichia coli K12 MG1655
+421,511145.0,eco,Escherichia coli K12 MG1655
+422,511145.0,eco,Escherichia coli K12 MG1655
+423,511145.0,eco,Escherichia coli K12 MG1655
+424,511145.0,eco,Escherichia coli K12 MG1655
+425,511145.0,eco,Escherichia coli K12 MG1655
+426,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+427,176299.0,atu,Agrobacterium fabrum str. C58
+428,176299.0,atu,Agrobacterium fabrum str. C58
+429,511145.0,eco,Escherichia coli K12 MG1655
+430,511145.0,eco,Escherichia coli K12 MG1655
+431,511145.0,eco,Escherichia coli K12 MG1655
+432,511145.0,eco,Escherichia coli K12 MG1655
+433,511145.0,eco,Escherichia coli K12 MG1655
+434,511145.0,eco,Escherichia coli K12 MG1655
+435,511145.0,eco,Escherichia coli K12 MG1655
+436,511145.0,eco,Escherichia coli K12 MG1655
+437,511145.0,eco,Escherichia coli K12 MG1655
+438,511145.0,eco,Escherichia coli K12 MG1655
+439,511145.0,eco,Escherichia coli K12 MG1655
+440,511145.0,eco,Escherichia coli K12 MG1655
+441,511145.0,eco,Escherichia coli K12 MG1655
+442,511145.0,eco,Escherichia coli K12 MG1655
+443,511145.0,eco,Escherichia coli K12 MG1655
+444,511145.0,eco,Escherichia coli K12 MG1655
+445,511145.0,eco,Escherichia coli K12 MG1655
+446,511145.0,eco,Escherichia coli K12 MG1655
+447,511145.0,eco,Escherichia coli K12 MG1655
+448,511145.0,eco,Escherichia coli K12 MG1655
+449,511145.0,eco,Escherichia coli K12 MG1655
+450,511145.0,eco,Escherichia coli K12 MG1655
+451,511145.0,eco,Escherichia coli K12 MG1655
+452,511145.0,eco,Escherichia coli K12 MG1655
+453,511145.0,eco,Escherichia coli K12 MG1655
+454,511145.0,eco,Escherichia coli K12 MG1655
+455,511145.0,eco,Escherichia coli K12 MG1655
+456,511145.0,eco,Escherichia coli K12 MG1655
+457,511145.0,eco,Escherichia coli K12 MG1655
+458,511145.0,eco,Escherichia coli K12 MG1655
+459,511145.0,eco,Escherichia coli K12 MG1655
+460,511145.0,eco,Escherichia coli K12 MG1655
+461,511145.0,eco,Escherichia coli K12 MG1655
+462,511145.0,eco,Escherichia coli K12 MG1655
+463,511145.0,eco,Escherichia coli K12 MG1655
+464,511145.0,eco,Escherichia coli K12 MG1655
+465,511145.0,eco,Escherichia coli K12 MG1655
+466,511145.0,eco,Escherichia coli K12 MG1655
+467,511145.0,eco,Escherichia coli K12 MG1655
+468,511145.0,eco,Escherichia coli K12 MG1655
+469,511145.0,eco,Escherichia coli K12 MG1655
+470,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+471,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+472,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+473,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+474,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+475,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+476,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+477,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+478,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+479,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+480,588858.0,ses,Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S
+481,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+482,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+483,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+484,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+485,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+486,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+487,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+488,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+489,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+490,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+491,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+492,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+493,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+494,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+495,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+496,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+497,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+498,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+499,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+500,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+501,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+502,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+503,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+504,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+505,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+506,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+507,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+508,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+509,100226.0,sco,Streptomyces coelicolor A3(2)
+510,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+511,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+512,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+513,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+514,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+515,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+516,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+517,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+518,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+519,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+520,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+521,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+522,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+523,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+524,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+525,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+526,511145.0,eco,Escherichia coli K12 MG1655
+527,511145.0,eco,Escherichia coli K12 MG1655
+528,511145.0,eco,Escherichia coli K12 MG1655
+529,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+530,511145.0,eco,Escherichia coli K12 MG1655
+531,511145.0,eco,Escherichia coli K12 MG1655
+532,502800.0,ypy,Yersinia pseudotuberculosis YPIII
+533,502800.0,ypy,Yersinia pseudotuberculosis YPIII
+534,511145.0,eco,Escherichia coli K12 MG1655
+535,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+536,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+537,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+538,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+539,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+540,376619.0,ftl,Francisella tularensis subsp. holarctica LVS
+541,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+542,1244085.0,kpc,Klebsiella pneumoniae CG43
+543,1244085.0,kpc,Klebsiella pneumoniae CG43
+544,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+545,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+546,511145.0,eco,Escherichia coli K12 MG1655
+547,511145.0,eco,Escherichia coli K12 MG1655
+548,511145.0,eco,Escherichia coli K12 MG1655
+549,511145.0,eco,Escherichia coli K12 MG1655
+550,511145.0,eco,Escherichia coli K12 MG1655
+551,511145.0,eco,Escherichia coli K12 MG1655
+552,85962.0,hpy,Helicobacter pylori 26695
+553,216591.0,bcj,Burkholderia cenocepacia J2315
+554,511145.0,eco,Escherichia coli K12 MG1655
+555,386585.0,ecs,Escherichia coli O157:H7 str. Sakai
+556,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+557,158879.0,sau,Staphylococcus aureus subsp.aureus N315
+558,511145.0,eco,Escherichia coli K12 MG1655
+559,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+560,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+561,242231.0,ngo,Neisseria gonorrhoeae FA 1090
+562,242231.0,ngo,Neisseria gonorrhoeae FA 1090
+563,242231.0,ngo,Neisseria gonorrhoeae FA 1090
+564,242231.0,ngo,Neisseria gonorrhoeae FA 1090
+565,511145.0,eco,Escherichia coli K12 MG1655
+566,208964.0,pae,Pseudomonas aeruginosa PAO1
+567,511145.0,eco,Escherichia coli K12 MG1655
+568,85962.0,hpy,Helicobacter pylori 26695
+569,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+570,214092.0,ypc,Yersinia pestis CO92
+571,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+572,316275.0,vsa,Aliivibrio salmonicida LFI1238
+573,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+574,511145.0,eco,Escherichia coli K12 MG1655
+575,511145.0,eco,Escherichia coli K12 MG1655
+576,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+577,243277.0,vco,Vibrio cholerae O395
+578,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+579,,vce,Vibrio cholerae El Tor Inaba A1552
+580,223926.0,vpa,Vibrio parahaemolyticus RIMD 2210633
+581,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+582,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+583,511145.0,eco,Escherichia coli K12 MG1655
+584,511145.0,eco,Escherichia coli K12 MG1655
+585,511145.0,eco,Escherichia coli K12 MG1655
+586,511145.0,eco,Escherichia coli K12 MG1655
+587,511145.0,eco,Escherichia coli K12 MG1655
+588,511145.0,eco,Escherichia coli K12 MG1655
+589,511145.0,eco,Escherichia coli K12 MG1655
+590,511145.0,eco,Escherichia coli K12 MG1655
+591,511145.0,eco,Escherichia coli K12 MG1655
+592,511145.0,eco,Escherichia coli K12 MG1655
+593,511145.0,eco,Escherichia coli K12 MG1655
+594,511145.0,eco,Escherichia coli K12 MG1655
+595,208964.0,pae,Pseudomonas aeruginosa PAO1
+596,511145.0,eco,Escherichia coli K12 MG1655
+597,511145.0,eco,Escherichia coli K12 MG1655
+598,511145.0,eco,Escherichia coli K12 MG1655
+599,511145.0,eco,Escherichia coli K12 MG1655
+600,511145.0,eco,Escherichia coli K12 MG1655
+601,511145.0,eco,Escherichia coli K12 MG1655
+602,511145.0,eco,Escherichia coli K12 MG1655
+603,511145.0,eco,Escherichia coli K12 MG1655
+604,511145.0,eco,Escherichia coli K12 MG1655
+605,511145.0,eco,Escherichia coli K12 MG1655
+606,511145.0,eco,Escherichia coli K12 MG1655
+607,511145.0,eco,Escherichia coli K12 MG1655
+608,511145.0,eco,Escherichia coli K12 MG1655
+609,511145.0,eco,Escherichia coli K12 MG1655
+610,511145.0,eco,Escherichia coli K12 MG1655
+611,511145.0,eco,Escherichia coli K12 MG1655
+612,1286640.0,sm2,Sinorhizobium meliloti 2011
+613,511145.0,eco,Escherichia coli K12 MG1655
+614,511145.0,eco,Escherichia coli K12 MG1655
+615,511145.0,eco,Escherichia coli K12 MG1655
+616,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+617,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+618,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+619,932920.0,lmo,Listeria monocytogenes serotype 1/2c LO28
+620,932920.0,lmo,Listeria monocytogenes serotype 1/2c LO28
+621,932920.0,lmo,Listeria monocytogenes serotype 1/2c LO28
+622,932920.0,lmo,Listeria monocytogenes serotype 1/2c LO28
+623,932920.0,lmo,Listeria monocytogenes serotype 1/2c LO28
+624,511145.0,eco,Escherichia coli K12 MG1655
+625,169963.0,lmo,Listeria monocytogenes EGD-e
+626,511145.0,eco,Escherichia coli K12 MG1655
+627,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+628,511145.0,eco,Escherichia coli K12 MG1655
+629,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+630,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+631,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+632,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+633,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+634,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+635,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+636,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+637,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+638,,sem,Salmonella enterica serovar Typhimurium strain MA3409
+639,511145.0,eco,Escherichia coli K12 MG1655
+640,511145.0,eco,Escherichia coli K12 MG1655
+641,511145.0,eco,Escherichia coli K12 MG1655
+642,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+643,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+644,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+645,511145.0,eco,Escherichia coli K12 MG1655
+646,511145.0,eco,Escherichia coli K12 MG1655
+647,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+648,511145.0,eco,Escherichia coli K12 MG1655
+649,511145.0,eco,Escherichia coli K12 MG1655
+650,511145.0,eco,Escherichia coli K12 MG1655
+651,511145.0,eco,Escherichia coli K12 MG1655
+652,511145.0,eco,Escherichia coli K12 MG1655
+653,511145.0,eco,Escherichia coli K12 MG1655
+654,511145.0,eco,Escherichia coli K12 MG1655
+655,511145.0,eco,Escherichia coli K12 MG1655
+656,511145.0,eco,Escherichia coli K12 MG1655
+657,511145.0,eco,Escherichia coli K12 MG1655
+658,511145.0,eco,Escherichia coli K12 MG1655
+659,511145.0,eco,Escherichia coli K12 MG1655
+660,1086030.0,sfm,Shigella flexneri 5a str. M90T
+661,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+662,122586.0,nme,Neisseria meningitidis MC58
+663,122586.0,nme,Neisseria meningitidis MC58
+664,511145.0,eco,Escherichia coli K12 MG1655
+665,169963.0,lmo,Listeria monocytogenes EGD-e
+666,474186.0,efo,Enterococcus faecalis OG1RF
+667,511145.0,eco,Escherichia coli K12 MG1655
+668,511145.0,eco,Escherichia coli K12 MG1655
+669,511145.0,eco,Escherichia coli K12 MG1655
+670,511145.0,eco,Escherichia coli K12 MG1655
+671,511145.0,eco,Escherichia coli K12 MG1655
+672,511145.0,eco,Escherichia coli K12 MG1655
+673,511145.0,eco,Escherichia coli K12 MG1655
+674,511145.0,eco,Escherichia coli K12 MG1655
+675,511145.0,eco,Escherichia coli K12 MG1655
+676,511145.0,eco,Escherichia coli K12 MG1655
+677,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+678,359391.0,bca,Brucella abortus 2308
+679,359391.0,bca,Brucella abortus 2308
+680,359391.0,bca,Brucella abortus 2308
+681,359391.0,bca,Brucella abortus 2308
+682,359391.0,bca,Brucella abortus 2308
+683,359391.0,bca,Brucella abortus 2308
+684,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+685,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+686,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+687,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+688,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+689,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+690,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+691,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+692,99287.0,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+693,1148.0,syn,Synechocystis sp. PCC 6803
+694,393133.0,lms,Listeria monocytogenes 10403S
+695,511145.0,eco,Escherichia coli K12 MG1655
+696,,eck,Escherichia coli strain 239 KH 89
+697,,sts,Salmonella enterica subsp. enterica serovar Typhimurium str. SF530
+698,511145.0,eco,Escherichia coli K12 MG1655
+699,511145.0,eco,Escherichia coli K12 MG1655
+700,511145.0,eco,Escherichia coli K12 MG1655
+701,511145.0,eco,Escherichia coli K12 MG1655
+702,266834.0,sme,Sinorhizobium meliloti 1021
+703,266834.0,sme,Sinorhizobium meliloti 1021
+704,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+705,216597.0,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344
+706,386585.0,ecs,Escherichia coli O157:H7 str. Sakai
+707,93061.0,sao,Staphylococcus aureus subsp. aureus NCTC 8325
+708,359391.0,bca,Brucella abortus 2308
+709,359391.0,bca,Brucella abortus 2308
+710,359391.0,bca,Brucella abortus 2308
+711,359391.0,bca,Brucella abortus 2308
+712,502800.0,ypy,Yersinia pseudotuberculosis YPIII
+713,176299.0,atu,Agrobacterium fabrum str. C58
+714,176299.0,atu,Agrobacterium fabrum str. C58
+715,176299.0,atu,Agrobacterium fabrum str. C58
+716,176299.0,atu,Agrobacterium fabrum str. C58
+717,176299.0,atu,Agrobacterium fabrum str. C58
+718,176299.0,atu,Agrobacterium fabrum str. C58
+719,,vce,Vibrio cholerae El Tor Inaba A1552
+720,511145.0,eco,Escherichia coli K12 MG1655
+721,208964.0,pae,Pseudomonas aeruginosa PAO1
+722,208964.0,pae,Pseudomonas aeruginosa PAO1
+723,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+724,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+725,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+726,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+727,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+728,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+729,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+730,338187.0,vha,Vibrio campbellii ATCC BAA-1116
+731,160490.0,spy,Streptococcus pyogenes M1 GAS
+732,370552.0,spy2,Streptococcus pyogenes MGAS10270
+733,286636.0,spy6,Streptococcus pyogenes MGAS10394
+734,319701.0,spy28,Streptococcus pyogenes MGAS6180
+735,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+736,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+737,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+738,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+739,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+740,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+741,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+742,243277.0,vch,Vibrio cholerae O1 biovar El Tor str. N16961
+743,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+744,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+745,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+746,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+747,224308.0,bsu,Bacillus subtilis subsp. subtilis str. 168
+748,,vce,Vibrio cholerae El Tor Inaba A1552
+749,272943.0,rsp,Rhodobacter sphaeroides 2.4.1
+750,224914.0,bmb,Brucella melitensis bv. 1 str. 16M
+751,176299.0,atu,Agrobacterium fabrum str. C58
