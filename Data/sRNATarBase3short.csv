@@ -525,198 +525,198 @@ ID,SRNA_NAME,TARGET_NAME,TAXID,ORG_CODE,STRAIN_NAME,SRNA_TYPE,SRNA_LENGTH,SRNA_S
 535,Qrr2,luxO,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,111193,111301,forward,mRMA,1404,3494750,3496153,forward,2
 536,Qrr3,luxO,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,555291,555399,reverse,mRMA,1404,3494750,3496153,forward,2
 537,Qrr4,luxO,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,1833376,1833484,reverse,mRMA,1404,3494750,3496153,forward,2
-538,gcvB,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,651,1102546,1103196,2,2
-539,mcaS,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,96,1405656,1405751,reverse,mRMA,651,1102546,1103196,2,2
-540,mcaS,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,96,1405656,1405751,reverse,mRMA,351,1977847,1978197,2,1
-542,RyhB-2,yeaQ,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,113,1309727,1309839,reverse,mRMA,249,1309991,1310239,1,2
-543,rprA,ydaM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,106,1770372,1770477,forward,mRMA,1233,1406563,1407795,2,2
-544,rprA,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,106,1770372,1770477,forward,mRMA,651,1102546,1103196,2,2
-545,SraG,YPK_1205,502800,ypy,Yersinia pseudotuberculosis YPIII,Trans-encoded antisense,182,4118440,4118621,forward,mRMA,780,1337238,1338017,2,2
-546,SraG,YPK_1206,502800,ypy,Yersinia pseudotuberculosis YPIII,Trans-encoded antisense,182,4118440,4118621,forward,mRMA,378,1338075,1338452,2,2
-548,micF,lrp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,495,932595,933089,1,2
-549,FsrA,gltA,224308,bsu,Bacillus subtilis subsp. subtilis str. 168,Trans-encoded antisense,84,1483557,1483640,forward,mRMA,4563,2010070,2014632,2,2
+538,gcvB,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,651,1102546,1103196,reverse,2
+539,mcaS,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,96,1405656,1405751,reverse,mRMA,651,1102546,1103196,reverse,2
+540,mcaS,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,96,1405656,1405751,reverse,mRMA,351,1977847,1978197,reverse,1
+542,RyhB-2,yeaQ,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,113,1309727,1309839,reverse,mRMA,249,1309991,1310239,forward,2
+543,rprA,ydaM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,106,1770372,1770477,forward,mRMA,1233,1406563,1407795,reverse,2
+544,rprA,csgD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,106,1770372,1770477,forward,mRMA,651,1102546,1103196,reverse,2
+545,SraG,YPK_1205,502800,ypy,Yersinia pseudotuberculosis YPIII,Trans-encoded antisense,182,4118440,4118621,forward,mRMA,780,1337238,1338017,reverse,2
+546,SraG,YPK_1206,502800,ypy,Yersinia pseudotuberculosis YPIII,Trans-encoded antisense,182,4118440,4118621,forward,mRMA,378,1338075,1338452,reverse,2
+548,micF,lrp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,495,932595,933089,forward,2
+549,FsrA,gltA,224308,bsu,Bacillus subtilis subsp. subtilis str. 168,Trans-encoded antisense,84,1483557,1483640,forward,mRMA,4563,2010070,2014632,reverse,2
 550,FsrA,lutABC,224308,bsu,Bacillus subtilis subsp. subtilis str. 168,Trans-encoded antisense,46,1483560,1483605,forward,mRMA,0,0,0,,2
-551,micF,lrp,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,181,2366830,2367010,reverse,mRMA,495,1036742,1037236,1,2
-552,micF,yahO,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,181,2366830,2367010,reverse,mRMA,276,415676,415951,1,2
+551,micF,lrp,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,181,2366830,2367010,reverse,mRMA,495,1036742,1037236,forward,2
+552,micF,yahO,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,181,2366830,2367010,reverse,mRMA,276,415676,415951,forward,2
 553,micF,lpxR,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,181,2366830,2367010,reverse,mRMA,0,0,0,,2
-554,FtrC,FTL_1293,376619,ftl,Francisella tularensis subsp. holarctica LVS,Trans-encoded antisense,196,1489842,1490037,reverse,mRMA,471,1233021,1233491,1,2
-555,MicC,ompD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,109,1702531,1702639,reverse,mRMA,1128,1611987,1613114,1,2
+554,FtrC,FTL_1293,376619,ftl,Francisella tularensis subsp. holarctica LVS,Trans-encoded antisense,196,1489842,1490037,reverse,mRMA,471,1233021,1233491,forward,2
+555,MicC,ompD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,109,1702531,1702639,reverse,mRMA,1128,1611987,1613114,forward,2
 556,RyhB,orf16,1244085,kpc,Klebsiella pneumoniae CG43,Trans-encoded antisense,0,0,0,,mRMA,0,0,0,,1
-557,RyhB,LV032,1244085,kpc,Klebsiella pneumoniae CG43,Trans-encoded antisense,0,0,0,,mRMA,318,208796,209113,2,1
-558,PcrZ,bchN,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,136,2565819,2565954,forward,mRMA,1287,2010941,2012227,1,2
-559,PcrZ,puc2A,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,136,2565819,2565954,forward,mRMA,792,146592,147383,1,2
-560,sgrS,manY,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,801,1903082,1903882,1,2
-561,sgrS,manZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,852,1903895,1904746,1,2
-562,oxyS,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,351,1977847,1978197,2,2
-563,omrA,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,88,2976102,2976189,reverse,mRMA,351,1977847,1978197,2,2
-564,omrB,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,82,2976304,2976385,reverse,mRMA,351,1977847,1978197,2,2
-565,arcZ,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,121,3350577,3350697,forward,mRMA,351,1977847,1978197,2,2
-566,5ureB-sRNA,ureB,85962,hpy,Helicobacter pylori 26695,Cis-encoded antisense,292,76795,77086,forward,mRMA,1710,75527,77236,2,2
-567,H2cR,hfq2,216591,bcj,Burkholderia cenocepacia J2315,Cis-encoded antisense,0,0,0,,mRMA,137,1704623,1704759,1,2
-568,ohsC,shoB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,77,2700520,2700596,forward,mRMA,81,2700117,2700197,2,2
-569,OrzO,zorO,386585,ecs,Escherichia coli O157:H7 str. Sakai,Trans-encoded antisense,81,2883467,2883547,forward,mRMA,264,2883139,2883402,2,2
-570,RydC,STM3820,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,66,1686526,1686591,forward,mRMA,1401,4018596,4019996,2,2
-571,SprD,sbi,158879,sau,Staphylococcus aureus subsp.aureus N315,Trans-encoded antisense,141,2007037,2007178,reverse,mRMA,1311,2476080,2477390,1,2
-572,sgrS,yigL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,801,4010200,4011000,1,1
-573,SraL,tig,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,140,4526163,4526302,reverse,mRMA,1299,501151,502449,1,2
+557,RyhB,LV032,1244085,kpc,Klebsiella pneumoniae CG43,Trans-encoded antisense,0,0,0,,mRMA,318,208796,209113,reverse,1
+558,PcrZ,bchN,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,136,2565819,2565954,forward,mRMA,1287,2010941,2012227,forward,2
+559,PcrZ,puc2A,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,136,2565819,2565954,forward,mRMA,792,146592,147383,forward,2
+560,sgrS,manY,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,801,1903082,1903882,forward,2
+561,sgrS,manZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,852,1903895,1904746,forward,2
+562,oxyS,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,351,1977847,1978197,reverse,2
+563,omrA,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,88,2976102,2976189,reverse,mRMA,351,1977847,1978197,reverse,2
+564,omrB,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,82,2976304,2976385,reverse,mRMA,351,1977847,1978197,reverse,2
+565,arcZ,flhD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,121,3350577,3350697,forward,mRMA,351,1977847,1978197,reverse,2
+566,5ureB-sRNA,ureB,85962,hpy,Helicobacter pylori 26695,Cis-encoded antisense,292,76795,77086,forward,mRMA,1710,75527,77236,reverse,2
+567,H2cR,hfq2,216591,bcj,Burkholderia cenocepacia J2315,Cis-encoded antisense,0,0,0,,mRMA,137,1704623,1704759,forward,2
+568,ohsC,shoB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,77,2700520,2700596,forward,mRMA,81,2700117,2700197,reverse,2
+569,OrzO,zorO,386585,ecs,Escherichia coli O157:H7 str. Sakai,Trans-encoded antisense,81,2883467,2883547,forward,mRMA,264,2883139,2883402,reverse,2
+570,RydC,STM3820,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,66,1686526,1686591,forward,mRMA,1401,4018596,4019996,reverse,2
+571,SprD,sbi,158879,sau,Staphylococcus aureus subsp.aureus N315,Trans-encoded antisense,141,2007037,2007178,reverse,mRMA,1311,2476080,2477390,forward,2
+572,sgrS,yigL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,227,77367,77593,forward,mRMA,801,4010200,4011000,forward,1
+573,SraL,tig,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,140,4526163,4526302,reverse,mRMA,1299,501151,502449,forward,2
 574,ArtR,sarT,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,0,0,0,,mRMA,0,0,0,,2
-575,NrrF,sdhA,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,1764,901660,903423,2,2
-576,NrrF,sdhB,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,729,900833,901561,2,2
-577,NrrF,sdhC,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,378,903761,904138,2,2
-578,NrrF,sdhD,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,342,903426,903767,2,2
-579,ryhB,cirA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1992,2244778,2246769,2,1
-580,NrsZ,rhlA,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,236,5775397,5775632,forward,mRMA,888,3892121,3893008,2,1
-581,sibD,ibsD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,143,3194723,3194865,reverse,mRMA,60,3194766,3194825,1,2
-582,RepG,HP0103,85962,hpy,Helicobacter pylori 26695,Trans-encoded antisense,87,1105620,1105706,forward,mRMA,1698,109025,110722,2,2
+575,NrrF,sdhA,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,1764,901660,903423,reverse,2
+576,NrrF,sdhB,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,729,900833,901561,reverse,2
+577,NrrF,sdhC,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,378,903761,904138,reverse,2
+578,NrrF,sdhD,242231,ngo,Neisseria gonorrhoeae FA 1090,Trans-encoded antisense,158,1975966,1976123,reverse,mRMA,342,903426,903767,reverse,2
+579,ryhB,cirA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1992,2244778,2246769,reverse,1
+580,NrsZ,rhlA,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,236,5775397,5775632,forward,mRMA,888,3892121,3893008,reverse,1
+581,sibD,ibsD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,143,3194723,3194865,reverse,mRMA,60,3194766,3194825,forward,2
+582,RepG,HP0103,85962,hpy,Helicobacter pylori 26695,Trans-encoded antisense,87,1105620,1105706,forward,mRMA,1698,109025,110722,reverse,2
 583,SprX,yabJ-spoVG ,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,0,0,0,,mRMA,0,0,0,,2
-584,Ysr141,yopJ,214092,ypc,Yersinia pestis CO92,Trans-encoded antisense,"255 (254 in the reference, corrected by the curator)",48532,48786,forward,mRMA,867,50211,51077,2,1
-585,Qrr4,VCA0107,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,107,908201,908307,reverse,mRMA,507,116846,117352,1,2
-586,Spot_42,VSAL_I1200,316275,vsa,Aliivibrio salmonicida LFI1238,Trans-encoded antisense,119,275173,275291,forward,mRMA,852,1309250,1310101,1,1
-587,Qrr4,VIBHAR_RS15760,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,1833376,1833484,reverse,mRMA,606,3409372,3409977,1,1
-588,chiX,chiP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,84,507204,507287,forward,mRMA,1407,708334,709740,1,2
-589,sibE,ibsE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,142,3195099,3195240,reverse,mRMA,60,3195141,3195200,1,2
-590,MtlS,VCA1045,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,38,994830,994867,forward,mRMA,1950,994881,996830,1,2
-591,TarA,ptsG,243277,vco,Vibrio cholerae O395,Trans-encoded antisense,99,379287,379385,reverse,mRMA,1503,1719739,1721241,2,2
-592,TarB,VC0837,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,78,911233,911310,reverse,mRMA,1017,898673,899689,1,2
-594,RyhB,pvsOp,223926,vpa,Vibrio parahaemolyticus RIMD 2210633,Trans-encoded antisense,232,112596,112827,forward,mRMA,7249,1775995,1783243,1,1
-595,Qrr4,VIBHAR_RS21570,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,246244,246352,forward,mRMA,1617,895486,897102,1,2
-596,Qrr4,VIBHAR_RS26745,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,246244,246352,forward,mRMA,465,2024388,2024852,1,1
-597,fnrS,folX,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,363,2421325,2421687,1,2
-598,fnrS,gpmA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,753,786843,787595,2,2
-599,fnrS,folE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,669,2242984,2243652,2,2
-600,fnrS,maeA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1698,1553972,1555669,2,2
-601,gcvB,lrp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,495,932595,933089,1,2
-602,gcvB,dppA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,1608,3706098,3707705,2,2
-603,Spot_42,caiA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1143,39244,40386,2,2
-604,Spot_42,atoD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,663,2323447,2324109,1,2
-605,Spot_42,puuE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1266,1365550,1366815,1,2
-606,Spot_42,paaK,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1314,1462125,1463438,1,2
-607,Spot_42,fucP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1317,2934235,2935551,1,2
-608,Spot_42,ascF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1458,2839524,2840981,1,2
+584,Ysr141,yopJ,214092,ypc,Yersinia pestis CO92,Trans-encoded antisense,"255 (254 in the reference, corrected by the curator)",48532,48786,forward,mRMA,867,50211,51077,reverse,1
+585,Qrr4,VCA0107,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,107,908201,908307,reverse,mRMA,507,116846,117352,forward,2
+586,Spot_42,VSAL_I1200,316275,vsa,Aliivibrio salmonicida LFI1238,Trans-encoded antisense,119,275173,275291,forward,mRMA,852,1309250,1310101,forward,1
+587,Qrr4,VIBHAR_RS15760,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,1833376,1833484,reverse,mRMA,606,3409372,3409977,forward,1
+588,chiX,chiP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,84,507204,507287,forward,mRMA,1407,708334,709740,forward,2
+589,sibE,ibsE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,142,3195099,3195240,reverse,mRMA,60,3195141,3195200,forward,2
+590,MtlS,VCA1045,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,38,994830,994867,forward,mRMA,1950,994881,996830,forward,2
+591,TarA,ptsG,243277,vco,Vibrio cholerae O395,Trans-encoded antisense,99,379287,379385,reverse,mRMA,1503,1719739,1721241,reverse,2
+592,TarB,VC0837,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,78,911233,911310,reverse,mRMA,1017,898673,899689,forward,2
+594,RyhB,pvsOp,223926,vpa,Vibrio parahaemolyticus RIMD 2210633,Trans-encoded antisense,232,112596,112827,forward,mRMA,7249,1775995,1783243,forward,1
+595,Qrr4,VIBHAR_RS21570,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,246244,246352,forward,mRMA,1617,895486,897102,forward,2
+596,Qrr4,VIBHAR_RS26745,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,246244,246352,forward,mRMA,465,2024388,2024852,forward,1
+597,fnrS,folX,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,363,2421325,2421687,forward,2
+598,fnrS,gpmA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,753,786843,787595,reverse,2
+599,fnrS,folE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,669,2242984,2243652,reverse,2
+600,fnrS,maeA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1698,1553972,1555669,reverse,2
+601,gcvB,lrp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,495,932595,933089,forward,2
+602,gcvB,dppA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,1608,3706098,3707705,reverse,2
+603,Spot_42,caiA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1143,39244,40386,reverse,2
+604,Spot_42,atoD,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,663,2323447,2324109,forward,2
+605,Spot_42,puuE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1266,1365550,1366815,forward,2
+606,Spot_42,paaK,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1314,1462125,1463438,forward,2
+607,Spot_42,fucP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1317,2934235,2935551,forward,2
+608,Spot_42,ascF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1458,2839524,2840981,forward,2
 609,phrS,pqsR,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,213,3705309,3705521,reverse,mRMA,0,0,0,,1
-610,sibA,ibsA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,143,2153309,2153451,forward,mRMA,60,2153349,2153408,2,2
-611,micF,phoE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,1056,259045,260100,2,2
-612,micF,cpxR,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,699,4104972,4105670,2,2
-613,Spot_42,icd,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1251,1195123,1196373,1,2
-614,Spot_42,sucC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1167,763014,764180,1,2
-615,Spot_42,gdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1344,1842371,1843714,1,2
-616,rybB,mraZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,79,887976,888054,reverse,mRMA,459,89634,90092,1,2
-617,fnrS,iscR,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,489,2661643,2662131,2,2
-618,fnrS,marA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,384,1619574,1619957,1,2
-619,fnrS,nagZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1026,1164095,1165120,1,2
-620,fnrS,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1767,755907,757673,1,2
-621,ryhB,nirB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,2544,3494011,3496554,1,2
-622,ryhB,marA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,384,1619574,1619957,1,2
-623,ryhB,nagZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1026,1164095,1165120,1,2
-624,ryhB,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1767,755907,757673,1,2
-625,ryhB,erpA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,345,176610,176954,1,2
+610,sibA,ibsA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,143,2153309,2153451,forward,mRMA,60,2153349,2153408,reverse,2
+611,micF,phoE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,1056,259045,260100,reverse,2
+612,micF,cpxR,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,93,2313084,2313176,forward,mRMA,699,4104972,4105670,reverse,2
+613,Spot_42,icd,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1251,1195123,1196373,forward,2
+614,Spot_42,sucC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1167,763014,764180,forward,2
+615,Spot_42,gdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1344,1842371,1843714,forward,2
+616,rybB,mraZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,79,887976,888054,reverse,mRMA,459,89634,90092,forward,2
+617,fnrS,iscR,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,489,2661643,2662131,reverse,2
+618,fnrS,marA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,384,1619574,1619957,forward,2
+619,fnrS,nagZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1026,1164095,1165120,forward,2
+620,fnrS,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,1767,755907,757673,forward,2
+621,ryhB,nirB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,2544,3494011,3496554,forward,2
+622,ryhB,marA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,384,1619574,1619957,forward,2
+623,ryhB,nagZ,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1026,1164095,1165120,forward,2
+624,ryhB,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,1767,755907,757673,forward,2
+625,ryhB,erpA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,345,176610,176954,forward,2
 626,EcpR1,dnaA,1286640,sm2,Sinorhizobium meliloti 2011,Trans-encoded antisense,101,1411709,1411809,forward,mRMA,0,0,0,,2
-627,cyaR,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,1767,755907,757673,1,2
-628,cyaR,manX,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,972,1902048,1903019,1,2
-629,cyaR,yobF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,144,1907448,1907591,2,2
-630,Qrr4,VC1415,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,0,107,908201,908307,reverse,mRMA,519,1509632,1510150,1,0
-631,Qrr4,VCA0017,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,0,107,908201,908307,reverse,mRMA,519,19781,20299,1,0
+627,cyaR,sdhA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,1767,755907,757673,forward,2
+628,cyaR,manX,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,972,1902048,1903019,forward,2
+629,cyaR,yobF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2167114,2167200,forward,mRMA,144,1907448,1907591,reverse,2
+630,Qrr4,VC1415,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,0,107,908201,908307,reverse,mRMA,519,1509632,1510150,forward,0
+631,Qrr4,VCA0017,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,0,107,908201,908307,reverse,mRMA,519,19781,20299,forward,0
 632,Qrr4,VCA0107,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,1833376,1833484,reverse,mRMA,0,0,0,,2
-633,LhrC-1,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,111,231836,231946,forward,mRMA,5148,1737569,1742716,2,2
-634,LhrC-2,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,112,232038,232149,forward,mRMA,5148,1737569,1742716,2,2
-635,LhrC-3,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,113,232241,232353,forward,mRMA,5148,1737569,1742716,2,2
-636,LhrC-4,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,114,232445,232558,forward,mRMA,5148,1737569,1742716,2,2
-637,LhrC-5,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,111,980362,980472,forward,mRMA,5148,1737569,1742716,2,2
-638,MicL,lpp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,80,1958441,1958520,reverse,mRMA,237,1757421,1757657,1,2
-640,Rli27,lmo0514,169963,lmo,Listeria monocytogenes EGD-e,Trans-encoded antisense,99,434831,434929,forward,mRMA,1818,547520,549337,1,1
-641,chiX,chbC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,84,507204,507287,forward,mRMA,1359,1819856,1821214,2,2
-642,CyaR,ompX,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,87,2231130,2231216,forward,mRMA,516,899534,900049,1,2
-643,fnrS,yobA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,375,1924595,1924969,2,2
-644,GcvB,ybdH,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,180,3156779,3156958,forward,mRMA,1089,663164,664252,2,2
-645,RybB,fadL,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1314,2500105,2501418,1,2
-646,RybB,ompA,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1053,1117287,1118339,2,2
-647,RybB,ompC,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,969,2363159,2364127,2,2
-648,RybB,ompD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1128,1611987,1613114,1,2
-649,RybB,ompF,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1092,1046348,1047439,2,2
-650,RybB,ompS,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1197,2035137,2036333,2,2
-651,RybB,ompW,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,639,1784746,1785384,1,2
-652,RybB,tsx,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,864,467023,467886,2,2
-654,rybB,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,79,887976,888054,reverse,mRMA,390,755177,755566,1,2
-655,ryhB,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,390,755177,755566,1,2
-656,Spot_42,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,390,755177,755566,1,2
-657,SgrS,sopD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,232,128577,128808,forward,mRMA,954,3109160,3110113,1,2
+633,LhrC-1,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,111,231836,231946,forward,mRMA,5148,1737569,1742716,reverse,2
+634,LhrC-2,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,112,232038,232149,forward,mRMA,5148,1737569,1742716,reverse,2
+635,LhrC-3,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,113,232241,232353,forward,mRMA,5148,1737569,1742716,reverse,2
+636,LhrC-4,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,114,232445,232558,forward,mRMA,5148,1737569,1742716,reverse,2
+637,LhrC-5,lapB,932920,lmo,Listeria monocytogenes serotype 1/2c LO28,Trans-encoded antisense,111,980362,980472,forward,mRMA,5148,1737569,1742716,reverse,2
+638,MicL,lpp,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,80,1958441,1958520,reverse,mRMA,237,1757421,1757657,forward,2
+640,Rli27,lmo0514,169963,lmo,Listeria monocytogenes EGD-e,Trans-encoded antisense,99,434831,434929,forward,mRMA,1818,547520,549337,forward,1
+641,chiX,chbC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,84,507204,507287,forward,mRMA,1359,1819856,1821214,reverse,2
+642,CyaR,ompX,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,87,2231130,2231216,forward,mRMA,516,899534,900049,forward,2
+643,fnrS,yobA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,122,1409129,1409250,forward,mRMA,375,1924595,1924969,reverse,2
+644,GcvB,ybdH,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,180,3156779,3156958,forward,mRMA,1089,663164,664252,reverse,2
+645,RybB,fadL,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1314,2500105,2501418,forward,2
+646,RybB,ompA,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1053,1117287,1118339,reverse,2
+647,RybB,ompC,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,969,2363159,2364127,reverse,2
+648,RybB,ompD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1128,1611987,1613114,forward,2
+649,RybB,ompF,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1092,1046348,1047439,reverse,2
+650,RybB,ompS,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,1197,2035137,2036333,reverse,2
+651,RybB,ompW,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,639,1784746,1785384,forward,2
+652,RybB,tsx,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,79,941815,941893,reverse,mRMA,864,467023,467886,reverse,2
+654,rybB,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,79,887976,888054,reverse,mRMA,390,755177,755566,forward,2
+655,ryhB,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,390,755177,755566,forward,2
+656,Spot_42,sdhC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,390,755177,755566,forward,2
+657,SgrS,sopD,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,232,128577,128808,forward,mRMA,954,3109160,3110113,forward,2
 658,SgrS,ptsG,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,232,128577,128808,forward,mRMA,0,0,0,,2
-659,SgrS,yigL,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,232,128577,128808,forward,mRMA,801,4188437,4189237,1,1
-660,Spot_42,gltA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1284,753185,754468,2,2
-662,dsrA,rcsA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2025227,2025313,reverse,mRMA,624,2023968,2024591,1,1
+659,SgrS,yigL,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,232,128577,128808,forward,mRMA,801,4188437,4189237,forward,1
+660,Spot_42,gltA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,109,4049899,4050007,forward,mRMA,1284,753185,754468,reverse,2
+662,dsrA,rcsA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2025227,2025313,reverse,mRMA,624,2023968,2024591,forward,1
 663,RNAIII,map,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,516,2093158,2093673,reverse,mRMA,0,0,0,,1
-667,IpeX,ompF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,167,573588,573754,reverse,mRMA,1089,985894,986982,2,2
-668,IpeX,ompC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,167,573588,573754,reverse,mRMA,1104,2311646,2312749,2,2
-669,oxyS,pqqL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,2796,1572407,1575202,2,2
-670,oxyS,uhpT,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1392,3845776,3847167,2,2
-671,rdlA,ldrA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,67,1269323,1269389,forward,mRMA,108,1269168,1269275,2,2
-672,rdlB,ldrB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,66,1269858,1269923,forward,mRMA,108,1269703,1269810,2,2
-673,rdlC,ldrC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,68,1270393,1270460,forward,mRMA,108,1270238,1270345,2,2
-674,gcvB,oppA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,1632,1301182,1302813,1,2
-675,oxyS,dps,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,504,848408,848911,2,2
-676,oxyS,gadB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1401,1570645,1572045,2,2
-677,oxyS,yhiM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1053,3634841,3635893,1,2
-678,RyhB,sdhCDAB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,3228,755177,758405,1,2
-680,RnaG,virG,1086030,sfm,Shigella flexneri 5a str. M90T,Trans-encoded antisense,120,0,0,,mRMA,3309,144035,147343,1,2
+667,IpeX,ompF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,167,573588,573754,reverse,mRMA,1089,985894,986982,reverse,2
+668,IpeX,ompC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,167,573588,573754,reverse,mRMA,1104,2311646,2312749,reverse,2
+669,oxyS,pqqL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,2796,1572407,1575202,reverse,2
+670,oxyS,uhpT,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1392,3845776,3847167,reverse,2
+671,rdlA,ldrA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,67,1269323,1269389,forward,mRMA,108,1269168,1269275,reverse,2
+672,rdlB,ldrB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,66,1269858,1269923,forward,mRMA,108,1269703,1269810,reverse,2
+673,rdlC,ldrC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,68,1270393,1270460,forward,mRMA,108,1270238,1270345,reverse,2
+674,gcvB,oppA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,1632,1301182,1302813,forward,2
+675,oxyS,dps,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,504,848408,848911,reverse,2
+676,oxyS,gadB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1401,1570645,1572045,reverse,2
+677,oxyS,yhiM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,110,4158285,4158394,reverse,mRMA,1053,3634841,3635893,forward,2
+678,RyhB,sdhCDAB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,3228,755177,758405,forward,2
+680,RnaG,virG,1086030,sfm,Shigella flexneri 5a str. M90T,Trans-encoded antisense,120,0,0,,mRMA,3309,144035,147343,forward,2
 681,SsrA,crtMN,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,362,788298,788659,forward,mRMA,0,0,0,,2
-682,AniS,NMB1468,122586,nme,Neisseria meningitidis MC58,Trans-encoded antisense,105,1210359,1210464,,mRMA,324,1518242,1518565,2,2
-683,AniS,prlC,122586,nme,Neisseria meningitidis MC58,Trans-encoded antisense,105,1210359,1210464,,mRMA,2037,217817,219853,1,2
-684,arrS,gadE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,69,3657986,3658054,reverse,mRMA,528,3658366,3658893,1,2
-685,lmos84,lmo0302,169963,lmo,Listeria monocytogenes EGD-e,Trans-encoded antisense,269,2346166,2346434,reverse,mRMA,285,327621,327905,1,2
+682,AniS,NMB1468,122586,nme,Neisseria meningitidis MC58,Trans-encoded antisense,105,1210359,1210464,,mRMA,324,1518242,1518565,reverse,2
+683,AniS,prlC,122586,nme,Neisseria meningitidis MC58,Trans-encoded antisense,105,1210359,1210464,,mRMA,2037,217817,219853,forward,2
+684,arrS,gadE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,69,3657986,3658054,reverse,mRMA,528,3658366,3658893,forward,2
+685,lmos84,lmo0302,169963,lmo,Listeria monocytogenes EGD-e,Trans-encoded antisense,269,2346166,2346434,reverse,mRMA,285,327621,327905,forward,2
 686,Qs,prgX,474186,efo,Enterococcus faecalis OG1RF,Trans-encoded antisense,0,0,0,,mRMA,0,0,0,,2
-687,mntS,yliL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,270,851894,852163,1,2
-688,mntS,aroM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,678,407428,408105,1,2
-689,mntS,alaE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,450,2799164,2799613,1,2
-690,mntS,tyrA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1122,2738948,2740069,2,2
-691,mntS,yaiA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,192,406979,407170,1,2
-692,mntS,aroF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1071,2740080,2741150,2,2
-693,mntS,aroL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,525,406405,406929,1,2
-694,mntS,opgE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1584,851014,852597,2,1
-695,mntS,cusF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,333,597131,597463,1,1
-696,mntS,cusC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1374,595600,596973,1,1
-697,RNAIII,lytM,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,516,2093158,2093673,reverse,mRMA,951,267753,268703,1,2
-698,AbcR1,BAB_RS17430,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,reverse,mRMA,1482,309776,311257,2,2
-699,AbcR1,BAB_RS29240,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,,mRMA,762,604290,605051,1,2
-700,AbcR1,BAB_RS30485,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,,mRMA,1047,864615,865661,2,2
-701,AbcR2,BAB_RS17430,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,1482,309776,311257,2,2
-702,AbcR2,BAB_RS29240,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,762,604290,605051,1,2
-703,AbcR2,BAB_RS30485,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,1047,864615,865661,2,2
-704,RyhB-1,STM1273.1n,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,186,1352946,1353131,1,2
-705,RyhB-1,sodB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,582,1509413,1509994,2,2
-706,RyhB-1,acnA,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,2676,1804755,1807430,2,2
-707,RyhB-1,acnB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,2598,185857,188454,1,2
-708,RyhB-1,ftn,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,498,2029391,2029888,1,2
-709,RyhB-2,sodB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,582,1509413,1509994,2,2
-710,RyhB-2,acnA,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,2676,1804755,1807430,2,2
-711,RyhB-2,acnB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,2598,185857,188454,1,2
-712,RyhB-2,ftn,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,498,2029391,2029888,1,2
-713,PsbA2R,psbA2,1148,syn,Synechocystis sp. PCC 6803,Cis-encoded antisense,180,7079,7258,forward,mRMA,1083,7229,8311,1,1
-714,SbrE,LMRG_00319,393133,lms,Listeria monocytogenes 10403S,Trans-encoded antisense,0,0,0,,mRMA,417,658036,658452,1,1
-715,gcvB,phoP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,672,1189776,1190447,2,2
-718,ryhB,msrB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,414,1862016,1862429,2,2
-719,ryhB,msrA,511145,eco,Escherichia coli K12 MG1655,0,90,3580927,3581016,reverse,mRMA,639,4441538,4442176,2,0
-720,gcvB,hdeA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,333,3656408,3656740,2,1
-721,gcvB,hdeB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,327,3655966,3656292,2,1
-722,AbcR1,livK,266834,sme,Sinorhizobium meliloti 1021,Trans-encoded antisense,0,0,0,,mRMA,1119,2668389,2669507,2,2
-723,AbcR2,livK,266834,sme,Sinorhizobium meliloti 1021,0,0,0,0,,mRMA,1119,2668389,2669507,2,0
-724,RydC,cfa,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,66,1686526,1686591,forward,mRMA,1149,1461087,1462235,2,1
-725,IstR,cfa,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,132,4019328,4019459,reverse,mRMA,1149,1461087,1462235,2,1
-726,Esr41,fliC,386585,ecs,Escherichia coli O157:H7 str. Sakai,Trans-encoded antisense,74,1422406,1422479,forward,mRMA,1758,2624379,2626136,2,1
-727,RsaA,mgrA,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,139,575845,575983,forward,mRMA,444,679331,679774,2,2
-728,BASRCI408,BAB1_2002,359391,bca,Brucella abortus 2308,Trans-encoded antisense,"435(434 in the reference, corrected by the curator)",826744,827178,forward,mRMA,132,1939666,1939797,2,2
-729,BASRCI385,purF,359391,bca,Brucella abortus 2308,Cis-encoded antisense,"205(204 in the reference, corrected by the curator)",465750,465954,forward,mRMA,1491,464198,465688,2,2
-730,BASRCI414,BAB_RS20005,359391,bca,Brucella abortus 2308,Cis-encoded antisense,"229(228 in the reference, corrected by the curator)",830409,830637,forward,mRMA,1266,829142,830407,2,2
-731,BASRCI153,BAB1_1361,359391,bca,Brucella abortus 2308,Trans-encoded antisense,"214(213 in the reference, corrected by the curator)",1441442,1441655,forward,mRMA,93,1316871,1316963,2,2
-732,YsrH,fabH2,502800,ypy,Yersinia pseudotuberculosis YPIII,Cis-encoded antisense ,64,1870503,1870566,reverse,mRMA,951,1870363,1871313,1,2
-733,AbcR1,frcB,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1023,66551,67573,1,2
-734,AbcR1,Atu4678,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,807,1836914,1837720,1,2
-735,AbcR1,chvE,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1065,2325655,2326719,2,2
-736,AbcR1,atpH,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,561,2608634,2609194,2,1
-737,AbcR1,Atu3114,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1290,123659,124948,2,2
-738,AbcR1,malE,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1233,2580262,2581494,2,2
-740,dsrA,mreB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2025227,2025313,reverse,mRMA,1044,3400044,3401087,2,2
+687,mntS,yliL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,270,851894,852163,forward,2
+688,mntS,aroM,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,678,407428,408105,forward,2
+689,mntS,alaE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,450,2799164,2799613,forward,2
+690,mntS,tyrA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1122,2738948,2740069,reverse,2
+691,mntS,yaiA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,192,406979,407170,forward,2
+692,mntS,aroF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1071,2740080,2741150,reverse,2
+693,mntS,aroL,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,525,406405,406929,forward,2
+694,mntS,opgE,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1584,851014,852597,reverse,1
+695,mntS,cusF,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,333,597131,597463,forward,1
+696,mntS,cusC,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,129,852869,852997,reverse,mRMA,1374,595600,596973,forward,1
+697,RNAIII,lytM,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,516,2093158,2093673,reverse,mRMA,951,267753,268703,forward,2
+698,AbcR1,BAB_RS17430,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,reverse,mRMA,1482,309776,311257,reverse,2
+699,AbcR1,BAB_RS29240,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,,mRMA,762,604290,605051,forward,2
+700,AbcR1,BAB_RS30485,359391,bca,Brucella abortus 2308,Trans-encoded antisense,110,508837,508946,,mRMA,1047,864615,865661,reverse,2
+701,AbcR2,BAB_RS17430,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,1482,309776,311257,reverse,2
+702,AbcR2,BAB_RS29240,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,762,604290,605051,forward,2
+703,AbcR2,BAB_RS30485,359391,bca,Brucella abortus 2308,Trans-encoded antisense,116,1468230,1468345,,mRMA,1047,864615,865661,reverse,2
+704,RyhB-1,STM1273.1n,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,186,1352946,1353131,forward,2
+705,RyhB-1,sodB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,582,1509413,1509994,reverse,2
+706,RyhB-1,acnA,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,2676,1804755,1807430,reverse,2
+707,RyhB-1,acnB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,2598,185857,188454,forward,2
+708,RyhB-1,ftn,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,95,3715401,3715495,reverse,mRMA,498,2029391,2029888,forward,2
+709,RyhB-2,sodB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,582,1509413,1509994,reverse,2
+710,RyhB-2,acnA,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,2676,1804755,1807430,reverse,2
+711,RyhB-2,acnB,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,2598,185857,188454,forward,2
+712,RyhB-2,ftn,99287,stm,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,Trans-encoded antisense,101,1352875,1352975,reverse,mRMA,498,2029391,2029888,forward,2
+713,PsbA2R,psbA2,1148,syn,Synechocystis sp. PCC 6803,Cis-encoded antisense,180,7079,7258,forward,mRMA,1083,7229,8311,forward,1
+714,SbrE,LMRG_00319,393133,lms,Listeria monocytogenes 10403S,Trans-encoded antisense,0,0,0,,mRMA,417,658036,658452,forward,1
+715,gcvB,phoP,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,672,1189776,1190447,reverse,2
+718,ryhB,msrB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,90,3580927,3581016,reverse,mRMA,414,1862016,1862429,reverse,2
+719,ryhB,msrA,511145,eco,Escherichia coli K12 MG1655,0,90,3580927,3581016,reverse,mRMA,639,4441538,4442176,reverse,0
+720,gcvB,hdeA,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,333,3656408,3656740,reverse,1
+721,gcvB,hdeB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,206,2942696,2942901,forward,mRMA,327,3655966,3656292,reverse,1
+722,AbcR1,livK,266834,sme,Sinorhizobium meliloti 1021,Trans-encoded antisense,0,0,0,,mRMA,1119,2668389,2669507,reverse,2
+723,AbcR2,livK,266834,sme,Sinorhizobium meliloti 1021,0,0,0,0,,mRMA,1119,2668389,2669507,reverse,0
+724,RydC,cfa,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,66,1686526,1686591,forward,mRMA,1149,1461087,1462235,reverse,1
+725,IstR,cfa,216597,sey,Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344,Trans-encoded antisense,132,4019328,4019459,reverse,mRMA,1149,1461087,1462235,reverse,1
+726,Esr41,fliC,386585,ecs,Escherichia coli O157:H7 str. Sakai,Trans-encoded antisense,74,1422406,1422479,forward,mRMA,1758,2624379,2626136,reverse,1
+727,RsaA,mgrA,93061,sao,Staphylococcus aureus subsp. aureus NCTC 8325,Trans-encoded antisense,139,575845,575983,forward,mRMA,444,679331,679774,reverse,2
+728,BASRCI408,BAB1_2002,359391,bca,Brucella abortus 2308,Trans-encoded antisense,"435(434 in the reference, corrected by the curator)",826744,827178,forward,mRMA,132,1939666,1939797,reverse,2
+729,BASRCI385,purF,359391,bca,Brucella abortus 2308,Cis-encoded antisense,"205(204 in the reference, corrected by the curator)",465750,465954,forward,mRMA,1491,464198,465688,reverse,2
+730,BASRCI414,BAB_RS20005,359391,bca,Brucella abortus 2308,Cis-encoded antisense,"229(228 in the reference, corrected by the curator)",830409,830637,forward,mRMA,1266,829142,830407,reverse,2
+731,BASRCI153,BAB1_1361,359391,bca,Brucella abortus 2308,Trans-encoded antisense,"214(213 in the reference, corrected by the curator)",1441442,1441655,forward,mRMA,93,1316871,1316963,reverse,2
+732,YsrH,fabH2,502800,ypy,Yersinia pseudotuberculosis YPIII,Cis-encoded antisense ,64,1870503,1870566,reverse,mRMA,951,1870363,1871313,forward,2
+733,AbcR1,frcB,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1023,66551,67573,forward,2
+734,AbcR1,Atu4678,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,807,1836914,1837720,forward,2
+735,AbcR1,chvE,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1065,2325655,2326719,reverse,2
+736,AbcR1,atpH,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,561,2608634,2609194,reverse,1
+737,AbcR1,Atu3114,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1290,123659,124948,reverse,2
+738,AbcR1,malE,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1233,2580262,2581494,reverse,2
+740,dsrA,mreB,511145,eco,Escherichia coli K12 MG1655,Trans-encoded antisense,87,2025227,2025313,reverse,mRMA,1044,3400044,3401087,reverse,2
 741,PrrH,phuS,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,325,5283995,5284319,forward,mRMA,0,0,0,,2
-742,PrrH,vreR,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,325,5283995,5284319,forward,mRMA,960,735487,736446,1,2
+742,PrrH,vreR,208964,pae,Pseudomonas aeruginosa PAO1,Trans-encoded antisense,325,5283995,5284319,forward,mRMA,960,735487,736446,forward,2
 743,Qrr1,luxM,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,95,2983624,2983718,forward,mRMA,0,0,0,,2
 744,Qrr2,luxM,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,111193,111301,forward,mRMA,0,0,0,,2
 745,Qrr3,luxM,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,555291,555399,reverse,mRMA,0,0,0,,2
@@ -726,22 +726,22 @@ ID,SRNA_NAME,TARGET_NAME,TAXID,ORG_CODE,STRAIN_NAME,SRNA_TYPE,SRNA_LENGTH,SRNA_S
 749,Qrr3,luxN,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,555291,555399,reverse,mRMA,0,0,0,,2
 750,Qrr4,luxN,338187,vha,Vibrio campbellii ATCC BAA-1116,Trans-encoded antisense,109,1833376,1833484,reverse,mRMA,0,0,0,,2
 751,FasX,cpa,160490,spy,Streptococcus pyogenes M1 GAS,Trans-encoded antisense,205,213738,213942,forward,mRMA,0,0,0,,2
-752,FasX,113,370552,spy2,Streptococcus pyogenes MGAS10270,Trans-encoded antisense,360,219013,219372,forward,mRMA,690,113039,113728,2,2
+752,FasX,113,370552,spy2,Streptococcus pyogenes MGAS10270,Trans-encoded antisense,360,219013,219372,forward,mRMA,690,113039,113728,reverse,2
 753,FasX,tee6,286636,spy6,Streptococcus pyogenes MGAS10394,Trans-encoded antisense,,0,0,,mRMA,0,0,0,,2
 754,FasX,fctA,319701,spy28,Streptococcus pyogenes MGAS6180,Trans-encoded antisense,360,218321,218680,forward,mRMA,0,0,0,,2
-755,VqmR,VCA0068,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1644,77459,79102,2,2
-756,VqmR,VC0200,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,2157,206433,208589,1,2
-757,VqmR,VC1063,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,861,1130556,1131416,2,2
-758,VqmR,vpsT,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,675,901426,902100,2,2
-759,VqmR,VC1865,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1554,2005135,2006688,1,2
-760,VqmR,VC1449,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,360,1549277,1549636,1,2
-761,VqmR,VCA0917,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,486,870338,870823,2,2
-762,VqmR,VCA0591,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1836,528565,530400,2,2
-763,CcsR1,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,83,692374,692456,reverse,mRMA,708,1233437,1234144,1,2
-764,CcsR2,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,81,692270,692350,reverse,mRMA,708,1233437,1234144,1,2
-765,CcsR3,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,78,692158,692235,reverse,mRMA,708,1233437,1234144,1,2
-766,CcsR4,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,78,691701,691778,reverse,mRMA,708,1233437,1234144,1,2
-767,RnaC,abrB,224308,bsu,Bacillus subtilis subsp. subtilis str. 168,Trans-encoded antisense,,0,0,,mRMA,291,44848,45138,2,2
-769,SorY,takP,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,,0,0,,mRMA,1098,1807968,1809065,1,2
-770,BSR0602,gntR,224914,bmb,Brucella melitensis bv. 1 str. 16M,Trans-encoded antisense,,0,0,,mRMA,684,102110,102793,1,2
-771,AbcR1,Atu4431,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1638,1573837,1575474,1,2
+755,VqmR,VCA0068,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1644,77459,79102,reverse,2
+756,VqmR,VC0200,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,2157,206433,208589,forward,2
+757,VqmR,VC1063,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,861,1130556,1131416,reverse,2
+758,VqmR,vpsT,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,675,901426,902100,reverse,2
+759,VqmR,VC1865,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1554,2005135,2006688,forward,2
+760,VqmR,VC1449,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,360,1549277,1549636,forward,2
+761,VqmR,VCA0917,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,486,870338,870823,reverse,2
+762,VqmR,VCA0591,243277,vch,Vibrio cholerae O1 biovar El Tor str. N16961,Trans-encoded antisense,151,1031438,1031588,forward,mRMA,1836,528565,530400,reverse,2
+763,CcsR1,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,83,692374,692456,reverse,mRMA,708,1233437,1234144,forward,2
+764,CcsR2,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,81,692270,692350,reverse,mRMA,708,1233437,1234144,forward,2
+765,CcsR3,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,78,692158,692235,reverse,mRMA,708,1233437,1234144,forward,2
+766,CcsR4,flhR,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,78,691701,691778,reverse,mRMA,708,1233437,1234144,forward,2
+767,RnaC,abrB,224308,bsu,Bacillus subtilis subsp. subtilis str. 168,Trans-encoded antisense,,0,0,,mRMA,291,44848,45138,reverse,2
+769,SorY,takP,272943,rsp,Rhodobacter sphaeroides 2.4.1,Trans-encoded antisense,,0,0,,mRMA,1098,1807968,1809065,forward,2
+770,BSR0602,gntR,224914,bmb,Brucella melitensis bv. 1 str. 16M,Trans-encoded antisense,,0,0,,mRMA,684,102110,102793,forward,2
+771,AbcR1,Atu4431,176299,atu,Agrobacterium fabrum str. C58,Trans-encoded antisense,117,2163254,2163370,forward,mRMA,1638,1573837,1575474,forward,2
