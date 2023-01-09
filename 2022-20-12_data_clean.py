@@ -22,3 +22,5 @@ df = pd.read_csv("/home/scharf/Desktop/sRNATarBase3_w_target_from_1_to_terminal.
  
 df.drop(['ID', 'REGULATION', 'PMID', 'SRNA_SEQ', 'TARGET_SEQ'], inplace=True)
 print(df.columns)
+
+df.to_csv('df.csv')
